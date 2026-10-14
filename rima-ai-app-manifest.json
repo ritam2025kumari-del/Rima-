@@ -1,0 +1,10 @@
+{
+  "name": "RIMA AI — Hindi Voice Assistant",
+  "short_name": "RIMA AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F4",
+  "theme_color": "#FFF8F4",
+  "orientation": "portrait",
+  "description": "Advanced Natural Hindi Voice Assistant with Cosmic Orb Dashboard"
+}
